@@ -11,7 +11,7 @@ console.log("Twoje imię");
 Wpisz w consoli następującą instrukcję i sprawdź ich wynik:
 
 ```JavaScript
-* 12 + 32;
+* 12 + 32; <!-- sf
 * 52 / 16;
 * 5 * 2;
 ```
